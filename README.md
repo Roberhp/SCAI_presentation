@@ -1,3 +1,3 @@
 # SCAI_presentation
 
-In this repo i upload the principal version of this job
+Este repositorio contiene las version presentada en SCAI que puede servir de base para futuros proyectos, tomando en cuenta lo presentado se espera que sirva de inspiracion para hacer diferentes acercamiento al PLN
